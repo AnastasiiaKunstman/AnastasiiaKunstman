@@ -10,8 +10,8 @@
           <ul > 
             <li>:rocket: Frontend-разработчик</li>
             <li>:books: уже больше года изучаю JavaScript</li>
-            <li>:woman_student: закончила курсы от Яндекс.Практикума по frontend-разработке </li>
-            <li>:pill: более 5 лет трудилась на Bigfarma</li>
+            <li>:woman_student: за плечами курсы от Яндекс.Практикума по frontend-разработке </li>
+            <li>:pill: более 5 лет работала на BigFarma</li>
             <li>:computer: вы можете посетить мой <a href="" target="blank">сайт</a></li>
           </ul>
          <br />
@@ -22,10 +22,10 @@
         <h3>Ключевые навыки:</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-          <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
           <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
           <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+          <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
           <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
           <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
           <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
