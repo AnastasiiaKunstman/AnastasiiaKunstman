@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="100%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" />
+   <img width="100%" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="gif" />
  </div>
 <div>
    <h3 >Здравствуй! Меня зовут Настя и я frontend-разработчик</h3>
