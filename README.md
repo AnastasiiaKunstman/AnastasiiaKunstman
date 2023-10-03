@@ -1,14 +1,13 @@
+<div>
+   <h3 >Здравствуй! Меня зовут Настя и я frontend-разработчик</h3>
+</div>
+   
 <div align="center">
    <img width="100%" src="https://media.giphy.com/media/kd9BlRovbPOykLBMqX/giphy.gif" alt="gif" />
  </div>
 
  <table>
   <tbody>
-     <tr>
-      <td>
-         <h3 >Hi, my name is Nastya</h3>
-      </td>
-    </tr>
     <tr>
       <td >
         <h3 >Обо мне :</h3>
