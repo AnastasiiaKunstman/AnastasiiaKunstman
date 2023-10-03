@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="100%" src="https://images.unsplash.com/photo-1692504591124-a9f49d3af648?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80" alt="cover" />
+   <img width="100%" height="50%" src="https://images.unsplash.com/photo-1692504591124-a9f49d3af648?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80" alt="cover" />
  </div>
 
  <table>
@@ -9,8 +9,9 @@
         <h3 >Обо мне :</h3>
           <ul > 
             <li>:rocket: Frontend-разработчик</li>
-            <li>:woman_student: уже больше года изучаю JavaScript отучилась в Яндекс.Практикуме </li>
-            <li>:briefcase: имею опыт в b2b продажах более 10 лет</li>
+            <li>:books: уже больше года изучаю JavaScript</li>
+            <li>:woman_student: закончила курсы от Яндекс.Практикума по frontend-разработке </li>
+            <li>:pill: более 5 лет трудилась на Bigfarma</li>
             <li>:computer: вы можете посетить мой <a href="" target="blank">сайт</a></li>
           </ul>
          <br />
