@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="100%" height="50%" src="https://images.unsplash.com/photo-1692504591124-a9f49d3af648?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80" alt="cover" />
+   <img width="100%" src="https://images.unsplash.com/photo-1673951284213-2a3550681b7d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80" alt="cover" />
  </div>
 
  <table>
@@ -40,7 +40,7 @@
       <td >
         <h3>Статистика:</h3>
         <div align="center">
-          <img src="https://streak-stats.demolab.com/??user=Anastasiia%20Kunstman)](https://git.io/streak-stats" height="150px"/>
+          <img src="https://streak-stats.demolab.com/?user=AnastasiiaKunstman&theme=default)](https://git.io/streak-stats" height="150px"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnastasiiaKunstman&theme=default" width="685px"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnastasiiaKunstman&theme=default)"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnastasiiaKunstman&theme=default"/>
