@@ -1,6 +1,8 @@
 <div>
    <h3 >Здравствуй! Меня зовут Настя и я frontend-разработчик</h3>
 </div>
+
+
    
 <div align="center">
    <img width="100%" src="https://media.giphy.com/media/kd9BlRovbPOykLBMqX/giphy.gif" alt="gif" />
