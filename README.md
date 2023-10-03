@@ -40,7 +40,7 @@
       <td >
         <h3>Статистика:</h3>
         <div align="center">
-          <img src="https://streak-stats.demolab.com/?user=AnastasiiaKunstman&theme=default)](https://git.io/streak-stats" height="685px"/>
+          <img src="https://streak-stats.demolab.com/?user=AnastasiiaKunstman&theme=default)](https://git.io/streak-stats" height="150px" width="685px"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnastasiiaKunstman&theme=default" width="685px"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnastasiiaKunstman&theme=default"/>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnastasiiaKunstman&theme=default"/>
