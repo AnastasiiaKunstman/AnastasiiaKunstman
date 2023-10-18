@@ -48,7 +48,9 @@
       <td>
         <h3>Мои контакты:</h3>
         <ul > 
-            <li><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" to="www.linkedin.com/in/akunstman" /></li>
+            <li>
+               <p>
+               <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />www.linkedin.com/in/akunstman</p></li>
             <li>🔥: стремлюсь работать с лучшими и учиться у лучших</li>
             <li>📝: пишу чистый и читаемый код </li>
             <li>↗️: активно осваиваю новые фреймворки</li>
