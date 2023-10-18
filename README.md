@@ -48,15 +48,26 @@
       <td>
         <h3>Мои контакты:</h3>
         <ul > 
+           <li>
+               <a href="https://mail.yandex.ru/?uid=584161654#inbox" target="_blank">
+               <img src="(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+               </a>
+            </li>
             <li>
                <a href="https://www.linkedin.com/in/akunstman/" target="_blank">
                <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
                </a>
             </li>
-            <li>🔥: стремлюсь работать с лучшими и учиться у лучших</li>
-            <li>📝: пишу чистый и читаемый код </li>
-            <li>↗️: активно осваиваю новые фреймворки</li>
-            <li>💥: готова к работе с настоящими боевыми проектами</li>
+           <li>
+               <a href="https://t.me/anastasiiakunstman" target="_blank">
+               <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+               </a>
+            </li>
+           <li>
+               <a href="" target="_blank">
+               <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+               </a>
+            </li>
           </ul>
          <br />
       </td>
